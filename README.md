@@ -4,10 +4,10 @@ This basic Contact Book serves as a simple and practical registry, designed for 
 ## Total Management:
 Allows you to create, modify, update, and delete entries intuitively.
 
-### Access & Control: 
+## Access & Control: 
 Makes it easy to review the complete list, find specific contacts through searches, and detect or duplicate data as needed.
 
-##### Organization: 
+## Organization: 
 Includes tools to sort information, ensuring your database remains structured at all times.
 
 
